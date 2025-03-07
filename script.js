@@ -1,6 +1,6 @@
 let prompt=document.querySelector("#prompt")
 
-
+// function applied on div chatbox
 function createChatBox(html,classes) {
   let div=document.createElement("div")
   div.classList.add(classes)
